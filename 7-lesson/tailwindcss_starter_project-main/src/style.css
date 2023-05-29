@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  font-family: "Manrope", sans-serif;
+}
+
+.nav{
+    border-bottom: 1px solid white;
+ 
+}
+
+
+.btn2{
+  border: 1px solid black;
+  color: black;
+}
+
+.btn-5{
+  border: 1px solid black;
+  padding: 15px 29px;
+}
